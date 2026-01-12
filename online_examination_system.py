@@ -5,8 +5,6 @@
 
 
 # Subclasses: MCQQuestion, CodingQuestion
-
-
 # Requirements:
 # MCQ evaluated by matching answers
 
