@@ -1,0 +1,13 @@
+hub,id,model,battery,status,price,extra,type
+Downtown,EV001,Tesla 3,5,Available,50,5,car
+Downtown,EV010,Ather 450,12,Available,10,85,scooter
+Airport,EV020,Ola S1,25,Available,12,75,scooter
+CityCenter,EV030,Tata EV,38,Available,40,5,car
+CityCenter,EV040,MG Comet,50,Under Maintenance,35,5,car
+Downtown,EV055,Ather 450X,60,Available,18,85,scooter
+Airport,EV062,Bounce Infinity,62,Available,14,85,scooter
+CityCenter,EV068,Ola Pro,68,Available,20,85,scooter
+Airport,EV075,Mahindra EV,75,On Trip,30,5,car
+Downtown,EV085,Nexon EV,85,Available,45,5,car
+CityCenter,EV092,Ather S1 Pro,92,Available,22,85,scooter
+Airport,EV099,Tesla X,99,Available,70,5,car

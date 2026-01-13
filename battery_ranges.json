@@ -1,0 +1,142 @@
+{
+    "0_to_10": [
+        {
+            "hub": "Downtown",
+            "id": "EV001",
+            "model": "Tesla 3",
+            "battery": "5",
+            "status": "Available",
+            "price": "50",
+            "extra": "5",
+            "type": "car"
+        }
+    ],
+    "11_to_20": [
+        {
+            "hub": "Downtown",
+            "id": "EV010",
+            "model": "Ather 450",
+            "battery": "12",
+            "status": "Available",
+            "price": "10",
+            "extra": "85",
+            "type": "scooter"
+        }
+    ],
+    "21_to_30": [
+        {
+            "hub": "Airport",
+            "id": "EV020",
+            "model": "Ola S1",
+            "battery": "25",
+            "status": "Available",
+            "price": "12",
+            "extra": "75",
+            "type": "scooter"
+        }
+    ],
+    "31_to_40": [
+        {
+            "hub": "CityCenter",
+            "id": "EV030",
+            "model": "Tata EV",
+            "battery": "38",
+            "status": "Available",
+            "price": "40",
+            "extra": "5",
+            "type": "car"
+        }
+    ],
+    "41_to_50": [
+        {
+            "hub": "CityCenter",
+            "id": "EV040",
+            "model": "MG Comet",
+            "battery": "50",
+            "status": "Under Maintenance",
+            "price": "35",
+            "extra": "5",
+            "type": "car"
+        }
+    ],
+    "51_to_60": [
+        {
+            "hub": "Downtown",
+            "id": "EV055",
+            "model": "Ather 450X",
+            "battery": "60",
+            "status": "Available",
+            "price": "18",
+            "extra": "85",
+            "type": "scooter"
+        }
+    ],
+    "61_to_70": [
+        {
+            "hub": "Airport",
+            "id": "EV062",
+            "model": "Bounce Infinity",
+            "battery": "62",
+            "status": "Available",
+            "price": "14",
+            "extra": "85",
+            "type": "scooter"
+        },
+        {
+            "hub": "CityCenter",
+            "id": "EV068",
+            "model": "Ola Pro",
+            "battery": "68",
+            "status": "Available",
+            "price": "20",
+            "extra": "85",
+            "type": "scooter"
+        }
+    ],
+    "71_to_80": [
+        {
+            "hub": "Airport",
+            "id": "EV075",
+            "model": "Mahindra EV",
+            "battery": "75",
+            "status": "On Trip",
+            "price": "30",
+            "extra": "5",
+            "type": "car"
+        }
+    ],
+    "81_to_90": [
+        {
+            "hub": "Downtown",
+            "id": "EV085",
+            "model": "Nexon EV",
+            "battery": "85",
+            "status": "Available",
+            "price": "45",
+            "extra": "5",
+            "type": "car"
+        }
+    ],
+    "91_to_100": [
+        {
+            "hub": "CityCenter",
+            "id": "EV092",
+            "model": "Ather S1 Pro",
+            "battery": "92",
+            "status": "Available",
+            "price": "22",
+            "extra": "85",
+            "type": "scooter"
+        },
+        {
+            "hub": "Airport",
+            "id": "EV099",
+            "model": "Tesla X",
+            "battery": "99",
+            "status": "Available",
+            "price": "70",
+            "extra": "5",
+            "type": "car"
+        }
+    ]
+}
