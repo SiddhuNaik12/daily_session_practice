@@ -20,25 +20,25 @@ def create_battery_ranges(csv_file="battery_task.csv",json_file="battery_ranges.
         for row in reader:
             battery=float(row["battery"])
             #allocate to correct range
-            if 0 <= battery <= 10:
+            if 0<=battery<=10:
                 ranges["0_to_10"].append(row)
-            elif 11 <= battery <= 20:
+            elif 11<=battery<=20:
                 ranges["11_to_20"].append(row)
-            elif 21 <= battery <= 30:
+            elif 21<=battery<=30:
                 ranges["21_to_30"].append(row)
-            elif 31 <= battery <= 40:
+            elif 31<=battery<=40:
                 ranges["31_to_40"].append(row)
-            elif 41 <= battery <= 50:
+            elif 41<=battery<=50:
                 ranges["41_to_50"].append(row)
-            elif 51 <= battery <= 60:
+            elif 51<=battery<=60:
                 ranges["51_to_60"].append(row)
-            elif 61 <= battery <= 70:
+            elif 61<=battery<=70:
                 ranges["61_to_70"].append(row)
-            elif 71 <= battery <= 80:
+            elif 71<=battery<=80:
                 ranges["71_to_80"].append(row)
-            elif 81 <= battery <= 90:
+            elif 81<=battery<=90:
                 ranges["81_to_90"].append(row)
-            elif 91 <= battery <= 100:
+            elif 91<=battery<=100:
                 ranges["91_to_100"].append(row)
     #sort list by id
     for key in ranges:
